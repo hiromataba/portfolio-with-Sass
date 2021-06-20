@@ -20,13 +20,13 @@
       from(rgba(39, 39, 39, 0.9)),
       to(rgba(39, 39, 39, 0.3))
     ),
-    url("./img/man.jpg") center top;
+    url("../img/man.jpg") center top;
   background: linear-gradient(
       to right,
       rgba(39, 39, 39, 0.9),
       rgba(39, 39, 39, 0.3)
     ),
-    url("./img/man.jpg") center top;
+    url("../img/man.jpg") center top;
   background-size: cover;
 }
 
